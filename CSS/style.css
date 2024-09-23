@@ -1,0 +1,25 @@
+H1{
+    color: brown;
+    float: center;
+
+}
+
+img {
+    width: 100px;
+    border-radius: 25%;
+    float:right;
+    border: 200px;
+}
+
+iframe{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: wheat;
+}
+
+section{
+    height: 120px;
+}
