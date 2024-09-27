@@ -1,7 +1,35 @@
+
+
+body nav ul{
+    padding: 40px;
+    margin-left:auto ;
+    margin-right: auto;
+    background-color: rgb(255, 162, 162);
+    margin: 2px;
+    opacity: 0.80;
+}
+
+
+body nav ul a{
+    font-size: 40px;
+    font-weight: 300;
+    color: black;
+    padding: 30px;
+}
+
+body nav{
+    left: 50%;
+    margin: 2px;
+}
+
 H1{
     color: brown;
     float: center;
-
+    font-style: italic;
+    background-color: aqua;
+    padding: 50px;
+    margin: 2px;
+    opacity: 0.80;
 }
 
 img {
@@ -9,6 +37,11 @@ img {
     border-radius: 25%;
     float:right;
     border: 200px;
+    background-color: rgb(255, 239, 150);
+    margin:20px;
+    padding: 50px;
+    border: solid;
+    opacity: 0.75;
 }
 
 iframe{
@@ -17,9 +50,31 @@ iframe{
 }
 
 body{
-    background-color: wheat;
+    background-image:url("https://wallpaperaccess.com/full/6875888.jpg");
+    border: solid;
+    border: 30pxs;
+    background-size: 100%;
 }
 
 section{
     height: 120px;
+    margin:20px;
+    padding: 50px;
+    background-color: rgb(255, 239, 150);
+    border-radius: 25%;
+    width: 300px;
+    border: solid;
+    margin-left:auto ;
+    margin-right: auto;
+    opacity: 0.75;
 }
+
+footer{
+    background-color: rgb(108, 255, 223);
+    margin:20px;
+    padding: 50px;
+    margin-bottom: 200px;
+    width: 200px;
+    opacity: 0.60;
+}
+
